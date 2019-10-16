@@ -13,7 +13,7 @@
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas perferendis commodi facere quia assumenda voluptates maxime ipsa omnis veniam distinctio nobis consectetur sed tempore rem qui harum totam, facilis dolorum.
     </h2>
     <h4>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae labore corporis velit. Provident quod obcaecati rem? Minima, unde maxime aliquid quo quam, quod sit, reiciendis autem odio nemo velit tempore?
+        tetur adipisicing elit. Beatae labore corporis velit. Provident quod obcaecati rem? Minima, unde maxime aliquid quo quam, quod sit, reiciendis autem odio nemo velit tempore?
     </h4>
 
 
